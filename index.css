@@ -1,0 +1,53 @@
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+
+}
+.img{
+    width: 100%;
+}
+.img1{
+    width: 100%;
+    position: git;
+}
+.img:hover{
+    width: 1000px;
+    position: relative;
+}
+.ej1{
+    display: flex;
+    flex-wrap: wrap;
+   height: 1500px; 
+   width: 500px;
+
+   justify-content: center;
+   position: relative;
+   
+}
+.ej2{
+    height: 500px; 
+   width: 500px;
+  display: flex;
+  justify-content: center;
+  position: relative;
+  top: 300px;
+  
+}
+.ej3{
+    height: 500px; 
+    width: 500px;
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+.ej4{
+    height: 50px; 
+    width: 400px;
+    display: flex;
+  justify-content: center;
+  border: solid;
+  border-radius: 10px;
+  background-color: blue;
+}
