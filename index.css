@@ -10,10 +10,10 @@ body{
 }
 .img1{
     width: 100%;
-    position: git;
+    position: relative;
 }
 .img:hover{
-    width: 1000px;
+    width: 200%;
     position: relative;
 }
 .ej1{
@@ -50,4 +50,6 @@ body{
   border: solid;
   border-radius: 10px;
   background-color: blue;
+  position: relative;
+  top: git50px;
 }
